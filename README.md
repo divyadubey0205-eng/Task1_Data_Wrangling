@@ -6,7 +6,7 @@ Clean and prepare raw sales dataset for analysis.
 ## Steps Performed
 - Data loading using Pandas
 - Handling missing values
-- Date format conversion (DD/MM/YYYY → datetime)
+- Date format conversion (20 feb 2026)
 - Feature engineering (order_year, order_month, shipping_days)
 - Column name standardization
 - Final cleaned dataset generation
@@ -19,3 +19,12 @@ Cleaned dataset saved in the output folder.
 - Pandas
 - Jupyter Notebook
 - Git & GitHub
+
+## Task 2 - Exploratory Data Analysis (EDA)
+
+Performed business analysis including:
+- Sales trend analysis
+- Region performance analysis
+- Category revenue comparison
+- Customer revenue contribution
+- Shipping performance evaluation
