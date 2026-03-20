@@ -28,3 +28,9 @@ Performed business analysis including:
 - Category revenue comparison
 - Customer revenue contribution
 - Shipping performance evaluation
+## Task 3 - Dashboard
+
+Created an Excel dashboard including:
+- KPIs (Total Sales, Orders, Shipping Days)
+- Sales by Region (Bar Chart)
+- Sales by Category (Pie Chart)
